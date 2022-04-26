@@ -24,7 +24,7 @@ $$ |  $$ |$$ |$$ |  $$ |$$ |  $$ |$$  __$$ |$$ | \____$$\
   --Neon-Line: 150,0,0; /*master neon color*/
   --Neon-Rgb: var(--Neon-Line); /*neon node*/
   /*Backgrounds*/
-  --master-background: url('https://i.ytimg.com/vi/CVNquGcV3CU/maxresdefault.jpg'); /*master background*/
+  --master-background: url('https://i.pinimg.com/originals/ab/c4/e0/abc4e0a945f9cf741ba5aa885d977fca.jpg'); /*master background*/
   --background-floating: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)) , var(--master-background)50% 50%/cover !important; /*background used in normal discord's code*/
   --background-black-and-white1: url('https://inspirationfeed.com/wp-content/uploads/2018/12/lou-batier-365323-unsplash-768x512.jpg'); /*background 3*/
   --background-black-and-white2: url('https://inspirationfeed.com/wp-content/uploads/2018/12/martin-sattler-160751-unsplash-768x575.jpg'); /*background 4*/
